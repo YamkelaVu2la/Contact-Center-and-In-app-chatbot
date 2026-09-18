@@ -1,4 +1,4 @@
-# Policy Corpus Agent
+# Contact-Center-and-In-app-chatbot
 
 A local, policy-grounded customer support assistant using Ollama, LangChain, and ChromaDB.
 
