@@ -1,5 +1,6 @@
 # Contact-Center-and-In-app-chatbot
 
+Retrieval-Augmented Generation (RAG) assistant that answers customer questions strictly from a companies's own policy documents, cites where each answer came from, and — critically — refuses gracefully rather than guessing when a question falls outside what it has been given.
 A local, policy-grounded customer support assistant using Ollama, LangChain, and ChromaDB.
 
 ## Project layout
